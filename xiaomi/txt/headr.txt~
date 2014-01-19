@@ -1,0 +1,42 @@
+https://www.account.xiaomi.com/pass/serviceLoginAuth2?_json=true&_sign=f%2FKB8SAfmaLZ0s28kcLtBSmZlEM%3D&auto=true&callback=http%3A%2F%2Forder.xiaomi.com%2Flogin%2Fcallback%3Ffollowup%3Dhttp%253A%252F%252Fwww.xiaomi.com%252F%26sign%3DMjk4NmVlYzNiOWY5YTkwMjExNzg5MjkyNzE3ZmIxOGM4YTBiMDk1Mg%2C%2C&pwd=ab0000ab&sid=eshop&user=18600515663
+
+------------------------------------------------------------------------------------------
+
+_json	true
+_sign	f/KB8SAfmaLZ0s28kcLtBSmZlEM=
+auto	true
+callback	http://order.xiaomi.com/login/callback?followup=http%3A%2F%2Fwww.xiaomi.com%2F&sign=Mjk4NmVlYzNiOWY5YTkwMjExNzg5MjkyNzE3ZmIxOGM4YTBiMDk1Mg,,
+pwd	ab0000ab
+sid	eshop
+user	18600515663
+源代码
+user=18600515663&sid=eshop&callback=http%3A%2F%2Forder.xiaomi.com%2Flogin%2Fcallback%3Ffollowup%3Dhttp%253A%252F%252Fwww.xiaomi.com%252F%26sign%3DMjk4NmVlYzNiOWY5YTkwMjExNzg5MjkyNzE3ZmIxOGM4YTBiMDk1Mg%2C%2C&_sign=f%2FKB8SAfmaLZ0s28kcLtBSmZlEM%3D&_json=true&pwd=ab0000ab&auto=true
+
+---------------------------------------------------------------------------------------
+&&&START&&&{"passToken":"Aq3FBlXT880Y+FyC7LB8rQZ7+hVHwK1XWDuib5kIrnudKboa/wx6giu6eAYPokoxHQKiwpow8hMgBvQNLcT1rB/kttFQKdS0BQ5cRzIbQhwBdCqk5vjOyKVvbQB/lOHGQv0lK86pGbFT0XfFWN6AiPa8h1dpxKpuK4bvLZ6tEB7YFeQekTANe0fHoiHW6wVfCn7U3v55Opjds0RPENqtoQ==","ssecurity":"0kG4Dq+3dJlN004tSmY8Jg==","desc":"成功","nonce":9194200434023435264,"location":"http://order.xiaomi.com/login/callback?followup=http%3A%2F%2Fwww.xiaomi.com%2F&sign=Mjk4NmVlYzNiOWY5YTkwMjExNzg5MjkyNzE3ZmIxOGM4YTBiMDk1Mg%2C%2C&pwd=1&usr=18600515663&auth=Vd2xVrgME%2BLBangT79XoK5lG8UA5o5abP6OYg%2BNcAL4NGcj4ywxUY78OMFWZvvo0zflBniakBGHGWUYE9pZaA5p9jupvS9kvyXdZqaXcrYTjq06vllL%2B1I%2Bi58GrEGSxUo2z%2FaCxVWKb7InLRHSCIxe7zyS7142X1wVi2Q1x3kw%3D&nonce=RDTAGB1%2FOK4BYXxs&_ssign=aiCB9qUE9BSPoUmKH0BIoLq%2BkvI%3D","userId":8948057,"captchaUrl":null,"psecurity":"9wx0nxlkrxHKm14eqcKjWA==","code":0}
+---------------------------------------------------------------------------------------
+
+响应头信息原始头信息
+Cache-Control	no-cache
+Connection	keep-alive
+Content-Encoding	gzip
+Content-Type	application/json; charset=utf-8
+Date	Fri, 17 Jan 2014 13:00:23 GMT
+Server	Tengine/1.5.2
+Set-Cookie	passToken=Aq3FBlXT880Y+FyC7LB8rQZ7+hVHwK1XWDuib5kIrnudKboa/wx6giu6eAYPokoxHQKiwpow8hMgBvQNLcT1rOBN7L6uGyBu7VeE6AAjO8X+fqegnsfqIju0ZlOf/rqWpl70iRngHa0sPkPw8J+2EtAXqIxFSCT7uxTAz+Tl1VFUbqFkUJ9aUZPSt9tm/Z+Ad8/o+Qa1mdldvqflnD15Vg==; Domain=account.xiaomi.com; Max-Age=1209599; Path=/; HttpOnly passToken=Aq3FBlXT880Y+FyC7LB8rQZ7+hVHwK1XWDuib5kIrnudKboa/wx6giu6eAYPokoxHQKiwpow8hMgBvQNLcT1rB/kttFQKdS0BQ5cRzIbQhwBdCqk5vjOyKVvbQB/lOHGQv0lK86pGbFT0XfFWN6AiPa8h1dpxKpuK4bvLZ6tEB7YFeQekTANe0fHoiHW6wVfCn7U3v55Opjds0RPENqtoQ==; Domain=account.xiaomi.com; Max-Age=1209599; Path=/; HttpOnly deviceId=wb_88ec6c93-2d1f-47ca-8145-6c6b0ebd3456; domain=account.xiaomi.com; path=/; expires=Wed, 04-Feb-2082 16:14:30 GMT pwdToken=HmKJCQKi9WjBGppYczsS5DCkPMnYOzW3ESjhGJsWdrymTuVvL5t8kH0Skug3FcH+lomYBLO/TMCB01sBqpdxk0A9oFt88E9MH+EjKuK24mk=; path=/ userId=8948057; domain=.xiaomi.com; path=/ userId=8948057; domain=account.xiaomi.com; path=/; expires=Fri, 31-Jan-2014 13:00:22 GMT pExpireTime=1391173223124; domain=account.xiaomi.com; path=/; expires=Fri, 31-Jan-2014 13:00:22 GMT pwdToken=HmKJCQKi9WjBGppYczsS5DCkPMnYOzW3ESjhGJsWdrzEluHwrQpH6W0Nlvef+gIk6INnMtrsR10lFDEjDhWmd8YdqYR0OtimdLvyh8+FlTw=; domain=account.xiaomi.com; path=/ userId=8948057; domain=.xiaomi.com; path=/ userId=8948057; domain=account.xiaomi.com; path=/; expires=Fri, 31-Jan-2014 13:00:22 GMT pExpireTime=1391173223124; domain=account.xiaomi.com; path=/; secure; expires=Fri, 31-Jan-2014 13:00:22 GMT uLocale=zh_CN; path=/; expires=Sat, 01-Feb-2014 13:00:23 GMT
+Transfer-Encoding	chunked
+extension-pragma	{"ssecurity":"0kG4Dq+3dJlN004tSmY8Jg==","nonce":9194200434023435264,"psecurity":"9wx0nxlkrxHKm14eqcKjWA=="}
+
+请求头信息原始头信息
+Accept	text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Encoding	gzip, deflate
+Accept-Language	zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Cache-Control	no-cache
+Connection	keep-alive
+Content-Length	279
+Content-Type	application/x-www-form-urlencoded; charset=UTF-8
+Cookie	mstz=||1660367267.4; mstuid=1389963474276_1621; xmuuid=XMGUEST-FAE29A70-7F76-11E3-8486-4946DDE9C341; __utma=219621008.2023239670.1389963475.1389963475.1389963475.1; __utmb=219621008.4.10.1389963475; __utmc=219621008; __utmz=219621008.1389963475.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); xm_user_www_num=0
+Host	www.account.xiaomi.com
+Pragma	no-cache
+Referer	https://www.account.xiaomi.com/pass/static/minilogin.html?third=http%253A%252F%252Forder.xiaomi.com%252Flogin%252Fcallback%253Ffollowup%253Dhttp%25253A%25252F%25252Fwww.xiaomi.com%25252F%2526sign%253DMjk4NmVlYzNiOWY5YTkwMjExNzg5MjkyNzE3ZmIxOGM4YTBiMDk1Mg%252C%252C%26sid%3Deshop&sid=eshop&callback=http%253A%252F%252Forder.xiaomi.com%252Flogin%252Fcallback%253Ffollowup%253Dhttp%25253A%25252F%25252Fwww.xiaomi.com%25252F%2526sign%253DMjk4NmVlYzNiOWY5YTkwMjExNzg5MjkyNzE3ZmIxOGM4YTBiMDk1Mg%252C%252C&sign=f%252FKB8SAfmaLZ0s28kcLtBSmZlEM%253D&inframe=true&1389963504976&inframe=true
+User-Agent	Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:16.0) Gecko/20100101 Firefox/16.0
