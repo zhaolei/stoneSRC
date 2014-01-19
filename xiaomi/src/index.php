@@ -10,3 +10,7 @@ echo 'get';
 echo '<pre>';
 print_r($_GET);
 echo '</pre>';
+echo 'cookie';
+echo '<pre>';
+print_r($_COOKIE);
+echo '</pre>';

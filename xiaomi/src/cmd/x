@@ -2,90 +2,71 @@ Array
 (
     [0] => Array
         (
-            [0] => var pass_env="https://account.xiaomi.com/pass/serviceLogin";
+            [Server] => Array
+                (
+                    [0] => MIWS
+                    [1] => Tengine/1.5.2
+                )
 
-            [1] => var iframeSrc = "/pass/static/v5login.html?inframe=true&onetimeEncode=true";
+            [Date] => Array
+                (
+                    [0] => Sun, 19 Jan 2014 12
+                    [1] => Sun, 19 Jan 2014 12
+                )
 
-            [2] => var callback = encodeURIComponent("http://order.xiaomi.com/login/callback?followup=http%3A%2F%2Fwww.xiaomi.com%2Findex.php&sign=ZjEwMWVlOTY3MWM1OGE3YjYxNGRiZjQ5MzJmYjI5NDE0ZWY0NzY5Mw,,");
+            [Content-Type] => Array
+                (
+                    [0] => text/html
+                    [1] => text/html; charset=UTF-8
+                )
 
-            [3] => var sid = encodeURIComponent("eshop");
+            [Connection] => Array
+                (
+                    [0] => close
+                    [1] => close
+                )
 
-            [4] => var qs = encodeURIComponent("%3Fcallback%3Dhttp%253A%252F%252Forder.xiaomi.com%252Flogin%252Fcallback%253Ffollowup%253Dhttp%25253A%25252F%25252Fwww.xiaomi.com%25252Findex.php%2526sign%253DZjEwMWVlOTY3MWM1OGE3YjYxNGRiZjQ5MzJmYjI5NDE0ZWY0NzY5Mw%252C%252C%26sid%3Deshop");
+            [Set-Cookie] => Array
+                (
+                    [0] => xm_www_sid=6dlveu3jhfcup2dmfcbingk5c4; path=/
+                    [1] => deviceId=wb_94e5dd80-9d6a-4b04-b9fd-5756c9b1c6d2; domain=account.xiaomi.com; path=/; expires=Fri, 06-Feb-2082 16
+                    [2] => uLocale=zh_CN; path=/; expires=Mon, 03-Feb-2014 12
+                    [3] => JSESSIONID=aaa9hvA_h30SR7coaKQou; path=/
+                )
 
-            [5] => var hidden = encodeURIComponent("");
+            [Expires] => Array
+                (
+                    [0] => Thu, 19 Nov 1981 08
+                    [1] => Thu, 01 Dec 1994 16
+                )
 
-            [6] => var sign = encodeURIComponent("nO3+W5nvdP4mTZ8aQqoAilyXq8g=");
+            [Cache-Control] => Array
+                (
+                    [0] => no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+                    [1] => no-cache
+                )
 
-            [7] => var url = window.location.href;
+            [Pragma] => Array
+                (
+                    [0] => no-cache
+                )
 
-            [8] => var reg = new RegExp("(^|&)_locale=([^&]*)(&|$)");
+            [Location] => Array
+                (
+                    [0] => https
+                )
 
-            [9] => var r = window.location.search.substr(1).match(reg);
-
-            [10] => var locale = unescape(r[2]);
-
-            [11] => var cookie = document.cookie;
-
-            [12] => var cookieArray = cookie.split(';');
-
-            [13] => var val = "";
-
-            [14] => var i = 0; i < cookieArray.length; i++) {
-
-            [15] => var url = window.location.href;
-
-            [16] => var matched = url.match(/\b(_locale=en)|(_locale=zh_TW)|(_locale=zh_CN)\b/);
-
-            [17] => var cookieLocale = getCookie("uLocale");
-
-            [18] => var queryPart =  "&callback=" + callback + "&sid=" + sid + "&qs=" + qs + "&sign=" + sign + "&hidden=" + hidden;
+            [Content-Length] => Array
+                (
+                    [0] => 5729
+                )
 
         )
 
     [1] => Array
         (
-            [0] => pass_env
-            [1] => iframeSrc 
-            [2] => callback 
-            [3] => sid 
-            [4] => qs 
-            [5] => hidden 
-            [6] => sign 
-            [7] => url 
-            [8] => reg 
-            [9] => r 
-            [10] => locale 
-            [11] => cookie 
-            [12] => cookieArray 
-            [13] => val 
-            [14] => i 
-            [15] => url 
-            [16] => matched 
-            [17] => cookieLocale 
-            [18] => queryPart 
-        )
-
-    [2] => Array
-        (
-            [0] => "https://account.xiaomi.com/pass/serviceLogin";
-            [1] =>  "/pass/static/v5login.html?inframe=true&onetimeEncode=true";
-            [2] =>  encodeURIComponent("http://order.xiaomi.com/login/callback?followup=http%3A%2F%2Fwww.xiaomi.com%2Findex.php&sign=ZjEwMWVlOTY3MWM1OGE3YjYxNGRiZjQ5MzJmYjI5NDE0ZWY0NzY5Mw,,");
-            [3] =>  encodeURIComponent("eshop");
-            [4] =>  encodeURIComponent("%3Fcallback%3Dhttp%253A%252F%252Forder.xiaomi.com%252Flogin%252Fcallback%253Ffollowup%253Dhttp%25253A%25252F%25252Fwww.xiaomi.com%25252Findex.php%2526sign%253DZjEwMWVlOTY3MWM1OGE3YjYxNGRiZjQ5MzJmYjI5NDE0ZWY0NzY5Mw%252C%252C%26sid%3Deshop");
-            [5] =>  encodeURIComponent("");
-            [6] =>  encodeURIComponent("nO3+W5nvdP4mTZ8aQqoAilyXq8g=");
-            [7] =>  window.location.href;
-            [8] =>  new RegExp("(^|&)_locale=([^&]*)(&|$)");
-            [9] =>  window.location.search.substr(1).match(reg);
-            [10] =>  unescape(r[2]);
-            [11] =>  document.cookie;
-            [12] =>  cookie.split(';');
-            [13] =>  "";
-            [14] =>  0; i < cookieArray.length; i++) {
-            [15] =>  window.location.href;
-            [16] =>  url.match(/\b(_locale=en)|(_locale=zh_TW)|(_locale=zh_CN)\b/);
-            [17] =>  getCookie("uLocale");
-            [18] =>   "&callback=" + callback + "&sid=" + sid + "&qs=" + qs + "&sign=" + sign + "&hidden=" + hidden;
+            [callback] => http://order.xiaomi.com/login/callback?followup=http%3A%2F%2Fwww.xiaomi.com%2Findex.php&sign=ZjEwMWVlOTY3MWM1OGE3YjYxNGRiZjQ5MzJmYjI5NDE0ZWY0NzY5Mw,,
+            [sign] => nO3+W5nvdP4mTZ8aQqoAilyXq8g=
         )
 
 )

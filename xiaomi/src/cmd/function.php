@@ -6,7 +6,7 @@ function httpPost($url, $data, $hder)
     $data_len = strlen($data_url);
 
     $header = array ('http'=>array('method'=>'POST',
-                                   'header'=>"Connection: close\r\nContent-Length: $data_len\r\n",
+                                   'header'=>"{$hder}Connection: close\r\nContent-Length: $data_len\r\n",
                                    'content'=>$data_url)
                     );
     $stream = stream_context_create($header);
